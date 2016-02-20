@@ -12,5 +12,8 @@
     "require": {
         "sensio/framework-extra-bundle": "^3.0",
         "doctrine/orm": "^2.5"
+    },
+    "autoload": {
+        "psr-4": { "agutils\\entitytesting\\": "" }
     }
 }
