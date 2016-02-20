@@ -1,5 +1,16 @@
 {
+    "name": "agutils/entity-testing-bundle",
+    "description": "This bundle provides a base for non-destructive entity tests",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel O'Connell",
+            "email": "oconnedk@hotmail.com"
+        }
+    ],
     "require": {
-        "sensio/framework-extra-bundle": "^3.0"
+        "sensio/framework-extra-bundle": "^3.0",
+        "doctrine/orm": "^2.5"
     }
 }
