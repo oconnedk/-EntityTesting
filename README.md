@@ -24,6 +24,8 @@ Edit **composer.json** as follows:
         }
     ],
     "require": {
+        ...
         "agutils/entity-testing-bundle": "dev-master"
+        ...
     },
 
